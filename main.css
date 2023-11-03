@@ -1,0 +1,105 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+
+.clr{
+    clear: both;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+.container{
+    width: 80%;
+    margin:auto;
+}
+.navbar{
+    background-color: grey;
+    padding-top: 10px;
+    
+}
+.logo{
+   
+    width:50%;
+    float: left;
+    margin-top: 10px;
+}
+
+
+.list{
+
+    float: right;
+    margin-top: 10px;
+}
+.list ul{
+    list-style-type: none;
+}
+.list ul li{
+float: left;
+margin-right: 15px;
+
+}
+.list ul li a{
+
+float: left;
+text-transform: uppercase;
+}
+
+
+
+
+
+.portfolio{
+    text-align: center;
+}
+.clr{
+    clear: both;
+}
+img{
+    width:33.33%;
+  float: left;
+ padding-right: 10px;
+ padding-bottom: 10px;
+}
+
+h2{
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+p{
+ font-style: italic;
+padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
